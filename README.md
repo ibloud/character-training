@@ -1,6 +1,6 @@
-# PIXIE & Death's Daughter: Character Training
+# PIXIE & the Grad Student: Character Training
 
-A static site and document pack for developing two companion characters, **PIXIE** and **Death's Daughter**, from a reading exercise through character design, animation and 3D production handoff. It also holds the producer pitch for the project.
+A static site and document pack for developing two companion characters, **PIXIE** and **the graduate student**, from a reading exercise through character design, animation and 3D production handoff. It also holds the producer pitch for the project.
 
 Status: owner-review draft (November 2026). The paired book-club portrait is the only owner-approved visual. Turnaround sheets, costumes, acting choices and story interpretations are proposals. No finished 3D model, rig, signed partner or target-game integration exists.
 
@@ -29,9 +29,9 @@ Status: owner-review draft (November 2026). The paired book-club portrait is the
 
 | File | Status |
 | --- | --- |
-| `approved-book-club.jpg` | Approved portrait. Sets shared facial identity, skin tone, textured curls and style. Death's Daughter is on the left, PIXIE on the right. |
+| `approved-book-club.jpg` | Approved portrait. Sets shared facial identity, skin tone, textured curls and style. the graduate student is on the left, PIXIE on the right. |
 | `pixie-turnaround.jpg` | Proposed construction reference (teal and gold jacket, mint circuitry). |
-| `deaths-daughter-turnaround.jpg` | Proposed construction reference (plum and black velvet, lace collar, brass fastenings). |
+| `grad-student-turnaround.jpg` | Proposed construction reference (plum and black velvet, lace collar, brass fastenings). |
 | `pixie-outrider.jpg` | Outrider costume image for PIXIE. |
 | `pixie-sigil.jpg` | PIXIE sigil image. |
 
@@ -71,7 +71,7 @@ Reading alone is valid participation. No public reflection, paid generation or p
 ├── research-and-gaps.md
 ├── approved-book-club.jpg
 ├── pixie-turnaround.jpg
-├── deaths-daughter-turnaround.jpg
+├── grad-student-turnaround.jpg
 ├── pixie-outrider.jpg
 ├── pixie-sigil.jpg
 └── .gitignore                      # .DS_Store, node_modules/, .vercel
