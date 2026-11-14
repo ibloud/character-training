@@ -7,3 +7,11 @@ Grounding: owner direction and the 13 November Drive note, PIXIE — Grad Studen
 The legacy turnaround image is retained as historical material; the current reference has an updated filename. Existing artwork is not claimed as newly approved for the revised protagonist.
 
 Higgsfield settings come from the completed job readback on 10 November. The supplied recording was inspected. Current cash rates, job-level billing and a finished 30-second trailer price remain unverified; earlier unsupported plan and cost assertions are removed.
+
+## Owner-supplied Replit portfolio text and image mapping
+
+The owner pasted the Replit portfolio content and supplied the corrected double-hyphen published URL on 14 November. The homepage now carries that portfolio structure (project, approach, selected work and resources), while the detailed producer page remains available. The current graduate-student framing is retained instead of restoring the pasted page's older title.
+
+Selected-work mapping requested by owner: 01 energetic presence; 02 human avatar (new candlelit reading-table illustration); 03 transportation (new illustrated library/road motorcycle scene). The new images were visible in chat but unavailable as files to the execution tools. Existing local images are explicitly marked as temporary references; exact replacements remain pending. No generated substitute is presented as the supplied image.
+
+The Replit URL remains blocked by the environment network policy. This recovery uses supplied content and existing GitHub assets; it is not a source export from Replit.
