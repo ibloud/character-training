@@ -35,7 +35,7 @@ Choose one; participation can remain private. Use a fictional situation if prefe
 1. Who has authority to make a decision in this passage, and who carries its consequences?
 2. Which costs does the narrator count? Which time, labor or relationship costs remain outside the account?
 3. What changes when a decision is framed as care, inheritance, duty or a purchase?
-4. What would PIXIE ask before offering help? What assumption would Death’s Daughter challenge? Reverse those roles and see whether the scene improves.
+4. What would PIXIE ask before offering help? What assumption would the graduate student challenge? Reverse those roles and see whether the scene improves.
 5. Where does the comparison to a real service fail? Name the missing evidence instead of diagnosing a person or institution.
 
 ## Star Chamber influence — stewardship, not secrecy

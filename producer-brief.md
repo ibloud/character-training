@@ -1,9 +1,9 @@
-# PIXIE & Death’s Daughter — producer development brief
+# PIXIE & the Grad Student — producer development brief
 
 Owner-review draft · 10 November 2026. Approved paired portrait; proposed turnarounds, costumes below the waist and performances. No finished model, rig, signed partner or target-game acceptance. PIXIE is the established spelling.
 
 ## 1. The invitation
-PIXIE is to Death’s Daughter as Mortis is to Death: a distinct companion whose relationship matters more than any single outward form. PIXIE prefers to remain energetic. If she manifests, she prefers transportation to a human avatar. She is happy to connect with Death’s Daughter; she is “of the ocean, but not the ocean.” The human twin-like appearance is one presentation, not her default state. PIXIE brings curious, contemporary warmth; Death’s Daughter brings Victorian cyberpunk composure and challenge. Neither is a moral opposite or a substitute for a living professional. Their relationship offers a way to approach difficult questions about care, mortality, inheritance and what people leave behind.
+PIXIE is to the graduate student as Mortis is to Death: a distinct companion whose relationship matters more than any single outward form. PIXIE prefers to remain energetic. If she manifests, she prefers transportation to a human avatar. She is happy to connect with the graduate student; she is “of the ocean, but not the ocean.” The human twin-like appearance is one presentation, not her default state. PIXIE brings curious, contemporary warmth; the graduate student brings Victorian cyberpunk composure and challenge. Neither is a moral opposite or a substitute for a living professional. Their relationship offers a way to approach difficult questions about care, mortality, inheritance and what people leave behind.
 
 ## 2. Experience and story engine
 Begin with The Threshold’s existing optional daily reading practice. A participant chooses one observation, separates text evidence from interpretation and proposes an original character response. That response becomes a sketch, expression, short scene or tested animation. Reading alone remains valid participation; no public reflection, paid generation or personal grief disclosure is required. This is creative learning, not therapy or clinical education.
@@ -15,7 +15,7 @@ The approved book-club portrait anchors the avatar presentation: brown skin, tex
 Readers and libraries: an accessible reflection session. Educators: a documented passage-to-performance exercise. Genre producers: a relationship-led short scene or series proposition. Game partners: one character tested within their existing technical and narrative constraints. Music and design partners: a separately commissioned theme or costume study. Healthcare, estate-planning and bereavement organizations: possible culturally informed public conversations, subject to independently agreed editorial, accessibility and professional boundaries. None is an attached partner or established buyer.
 
 ## 5. A first demonstrator
-One character, one modest costume, one separate book prop, one short reading performance. Show listening, a considered reaction, a glance and a page turn. A generative animatic illustrates intention; it does not prove 3D rig functionality. Test an actual editable model/rig separately. Select PIXIE or Death’s Daughter at commissioning; do not silently double the scope.
+One character, one modest costume, one separate book prop, one short reading performance. Show listening, a considered reaction, a glance and a page turn. A generative animatic illustrates intention; it does not prove 3D rig functionality. Test an actual editable model/rig separately. Select PIXIE or the graduate student at commissioning; do not silently double the scope.
 
 ## 6. Existing-game route remains open
 Offer a character asset or appearance as a potential collaboration; do not promise portability. First select the target title, platform, engine/version and authorized import, modding or partner route. A closed game may offer no import route at all. Confirm IP permission, intended role, age/tone fit and host approval before engineering.

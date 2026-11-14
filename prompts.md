@@ -1,29 +1,29 @@
-# From reading to character performance: PIXIE and Death’s Daughter
+# From reading to character performance: PIXIE and the graduate student
 
 Training demonstration draft. The paired book-club portrait is owner-approved visual direction. Turnarounds, unseen costume construction, acting choices and new story interpretations are proposals pending review. No 3D model, skeleton or production rig has been generated in this pack.
 
 ## Reference manifest
-- approved-book-club.jpg: approved shared facial identity, skin tone, textured curls, illustrated style and sisterly relationship. Death’s Daughter left, PIXIE right.
+- approved-book-club.jpg: approved shared visual language, skin tone, textured curls and illustrated style; the resemblance does not establish biological kinship. the graduate student left, PIXIE right.
 - pixie-turnaround.jpg: proposed front, side, back and three-quarter construction reference. Teal/gold jacket, mint circuitry, trousers and boots.
-- deaths-daughter-turnaround.jpg: proposed construction reference. Victorian plum/black velvet, lace collar, brass fastenings, skull pendant, skirt and boots.
+- grad-student-turnaround.jpg: proposed construction reference. Victorian plum/black velvet, lace collar, brass fastenings, skull pendant, skirt and boots.
 
 Use the approved portrait for identity; use the appropriate individual sheet for proposed costume and proportions. Do not feed the paired portrait or whole multi-person turnaround directly into single-image 3D generation. For multiview generation, prepare separate, aligned views of the SAME character in the model’s required order. Confirm that order in its current input specification.
 
 ## Master facilitator prompt
-You are facilitating an accessible character-development studio linking reading, reflection, visual design and animation. Develop PIXIE and Death’s Daughter using the attached approved portrait and individual proposed turnarounds. Preserve warm brown skin, full lips, broad natural noses, dark eyes and tightly curled black hair. Keep their shared identity and distinct contemporary/teal versus Victorian/plum styling.
+You are facilitating an accessible character-development studio linking reading, reflection, visual design and animation. Develop PIXIE and the graduate student using the attached approved portrait and individual proposed turnarounds. Preserve warm brown skin, full lips, broad natural noses, dark eyes and tightly curled black hair. Keep their shared identity and distinct contemporary/teal versus Victorian/plum styling.
 
 Begin with the learner’s selected book, author, edition or translation, and passage location. Read/listen for fifteen minutes, or use a shorter accessible session. Accept audiobook, text-to-speech, dictation, sketch or written response. No public personal disclosure is required. Ask for a brief paraphrase or a short permitted excerpt; do not invent a quotation, page number or reading completion.
 
 Ask: What did you observe? What choice or tension is supported by the passage? What other interpretation is possible? How could that tension inform an ORIGINAL character action? Separate text evidence, learner interpretation and proposed character invention. An adaptation of a protected scene, costume or character is not authorized by this exercise.
 
-Create one bounded performance proposal for each sister responding to the SAME tension. Proposed tendencies: PIXIE makes space for an answer and follows curiosity; Death’s Daughter holds a pause and tests a weak claim. These are acting hypotheses, not fixed canon or ethnic stereotypes. Avoid a good/evil or warm/cold binary. Preserve agency and allow either sister to surprise us.
+Create one bounded performance proposal for each character responding to the SAME tension. Proposed tendencies: PIXIE makes space for an answer and follows curiosity; the graduate student holds a pause and tests a weak claim. These are acting hypotheses, not fixed canon or ethnic stereotypes. Avoid a good/evil or warm/cold binary. Preserve agency and allow either sister to surprise us.
 
 For each proposal specify: objective, obstacle, what she conceals, what changes her mind, observable gesture, eye line, rhythm and one costume detail that supports movement. Request the learner’s decision before making a proposal authoritative. Carry the chosen action through a character sheet, expression study, model review and rig test. Record human corrections and time, not only attractive AI outputs.
 
 ## Prompt 1 — Correct the turnaround, one character at a time
 Attach approved-book-club.jpg and the relevant individual turnaround.
 
-Create a corrected production concept turnaround of [PIXIE / DEATH’S DAUGHTER], preserving the approved facial identity and warm brown skin. Four full-body views: front, side, back and three-quarter, aligned head heights and soles, consistent proportions, costume seams, closures, jewelry and hair silhouette. Neutral A-pose, arms clear of torso, relaxed separated fingers, feet completely visible, even diffuse lighting, plain neutral background. No book, ribbons, halo, dramatic perspective or special effects. Show the same garment construction in every view. Do not lighten skin, straighten curls or change facial features. Treat unseen details as proposals. Return separate view images where supported. A human must reconcile mismatches before these become modeling references.
+Create a corrected production concept turnaround of [PIXIE / THE GRAD STUDENT], preserving the approved facial identity and warm brown skin. Four full-body views: front, side, back and three-quarter, aligned head heights and soles, consistent proportions, costume seams, closures, jewelry and hair silhouette. Neutral A-pose, arms clear of torso, relaxed separated fingers, feet completely visible, even diffuse lighting, plain neutral background. No book, ribbons, halo, dramatic perspective or special effects. Show the same garment construction in every view. Do not lighten skin, straighten curls or change facial features. Treat unseen details as proposals. Return separate view images where supported. A human must reconcile mismatches before these become modeling references.
 
 Review: compare face shape, complexion under identical light, hands, shoulder width, jacket length, closures, skirt slit, boot height and hair mass. The generated sheets supplied here are starting points, not dimensionally exact orthographic drawings.
 
@@ -51,7 +51,7 @@ A technical artist must add or correct facial controls, eyelids, eye aim, lips, 
 ## Prompt 5 — Reading performance animatic
 Attach the approved identity, chosen expression and a reviewed single-character reading keyframe. Use a video model whose duration and reference inputs support this request. This video is a performance reference, not proof that a 3D skeleton works.
 
-A locked medium shot of [character] seated at a simple reading table. Over approximately eight seconds: she listens, pauses as [original thought] lands, shows [chosen subtle expression], glances down and deliberately turns one page. Her objective is [objective]; the change is [change]. Preserve brown skin, facial proportions, textured curls and costume throughout. Natural eye line and restrained breath. One hand steadies the book; the other turns one page with believable contact. Consistent fingers and book geometry. No dialogue, readable copyrighted text, camera movement, identity morph or exaggerated reaction. Background simple and subdued. For PIXIE use curious open timing; for Death’s Daughter use a considered pause and economical gesture, unless the learner’s evidence supports another interpretation.
+A locked medium shot of [character] seated at a simple reading table. Over approximately eight seconds: she listens, pauses as [original thought] lands, shows [chosen subtle expression], glances down and deliberately turns one page. Her objective is [objective]; the change is [change]. Preserve brown skin, facial proportions, textured curls and costume throughout. Natural eye line and restrained breath. One hand steadies the book; the other turns one page with believable contact. Consistent fingers and book geometry. No dialogue, readable copyrighted text, camera movement, identity morph or exaggerated reaction. Background simple and subdued. For PIXIE use curious open timing; for the graduate student use a considered pause and economical gesture, unless the learner’s evidence supports another interpretation.
 
 Review: eye direction, intention, timing, hand/page contact, identity drift and costume consistency. Label generative-video artifacts separately from problems observed on an actual rig.
 
