@@ -12,8 +12,8 @@ Status: owner-review draft (November 2026). The paired book-club portrait is the
 
 | File | Purpose |
 | --- | --- |
-| `producer.html` | Producer pitch: the characters, how they appear, a first production, audience-specific pitches, AI cost pricing and the ask. Styled by `producer.css`. |
-| `practice.html` | Training exercise "Reading into character performance": reference manifest, facilitator prompt, staged prompts and learner assessment. Styled by `training.css` and `review.css`. |
+| `producer.html` | Producer pitch: the characters, how they appear, a first production, audience-specific pitches, AI cost pricing and the ask. Styled by the shared `training.css`. |
+| `practice.html` | Training exercise "Reading into character performance": reference manifest, facilitator prompt, staged prompts and learner assessment. Styled by the shared `training.css`. |
 | `ensemble.html` | "The Outrider ensemble": costume cost and construction. Covers the route, a film-costume piece, a hybrid protective base with a couture shell, three budget tiers and a four-module tech pack. |
 | `research.html` | "Care, mortality, money and legacy": research and placement brief with an evidence ledger and a source register. |
 
@@ -61,11 +61,11 @@ Reading alone is valid participation. No public reflection, paid generation or p
 ```
 .
 ├── index.html                      # redirect to producer.html
-├── producer.html / producer.css
+├── producer.html
 ├── practice.html
 ├── ensemble.html
 ├── research.html
-├── training.css / review.css
+├── training.css / site.js
 ├── producer-brief.md
 ├── prompts.md
 ├── research-and-gaps.md
@@ -87,3 +87,7 @@ The `.vercel` entry in `.gitignore` suggests Vercel hosting, but the repo has no
 ## License
 
 No license file is present. Add one before inviting reuse.
+
+## Shared visual authority
+
+Every HTML page loads exactly one stylesheet, `training.css`. It owns the shared palette, sans-serif type, spacing, navigation, controls and responsive components. No inline presentation, page-specific stylesheet or CSS import is used. The canonical direction is the Loptr Lab Design Bible in `Loptr-Lab/veiled-dominion-engine/docs/design/DESIGN_BIBLE.md`: near-black/grey surfaces, gold for links and labels rather than fills, with raised muted-text contrast. All pages use the same header, footer and theme controller.
