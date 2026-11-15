@@ -1,6 +1,6 @@
-# PIXIE & Death's Daughter: Character Training
+# PIXIE & the Grad Student: Character Training
 
-A static site and document pack for developing two companion characters, **PIXIE** and **Death's Daughter**, from a reading exercise through character design, animation and 3D production handoff. It also holds the producer pitch for the project.
+A static character-development site and document pack for **PIXIE** and the **philosophy graduate student**, spanning reading, character design, animation and 3D production handoff. This framing does not rename Death or Rebirth in the wider Veiled Dominion game, and does not erase separate Death's Daughter work. The deployed review portfolio may be ahead of the main-branch static pages; reconcile those changes separately before publication.
 
 Status: owner-review draft (November 2026). The paired book-club portrait is the only owner-approved visual. Turnaround sheets, costumes, acting choices and story interpretations are proposals. No finished 3D model, rig, signed partner or target-game integration exists.
 
@@ -15,7 +15,7 @@ Status: owner-review draft (November 2026). The paired book-club portrait is the
 | `producer.html` | Producer pitch: the characters, how they appear, a first production, audience-specific pitches, AI cost pricing and the ask. Styled by `producer.css`. |
 | `practice.html` | Training exercise "Reading into character performance": reference manifest, facilitator prompt, staged prompts and learner assessment. Styled by `training.css` and `review.css`. |
 | `ensemble.html` | "The Outrider ensemble": costume cost and construction. Covers the route, a film-costume piece, a hybrid protective base with a couture shell, three budget tiers and a four-module tech pack. |
-| `research.html` | "Care, mortality, money and legacy": research and placement brief with an evidence ledger and a source register. |
+| `research.html` | Research and placement brief, including the White Book / historical tarot comparison with evidence-versus-adaptation labels. |
 
 ## Markdown documents
 
@@ -25,11 +25,15 @@ Status: owner-review draft (November 2026). The paired book-club portrait is the
 | `prompts.md` | Facilitator and generation prompts: turnaround correction, expression study, 3D generation, rigging, reading-performance animatic, human handoff and learner reflection. |
 | `research-and-gaps.md` | Research agenda, where each kind of content belongs, evidence rules, open decisions and sources. |
 
+## Research framing
+
+The philosophy graduate student's historical-game reconstruction is a **proposed treatment**, not an assertion that medieval Welsh literature originated tarot. The White Book of Rhydderch offers a case of textual transmission and loss; Italian tarot began as a fifteenth-century card game with a historical 78-card deck. An existing 52-card game design remains fictional. See `research-and-gaps.md` and `research.html` for cited sources and the canon boundary.
+
 ## Reference images
 
 | File | Status |
 | --- | --- |
-| `approved-book-club.jpg` | Approved portrait. Sets shared facial identity, skin tone, textured curls and style. Death's Daughter is on the left, PIXIE on the right. |
+| `approved-book-club.jpg` | Approved portrait. Sets shared facial identity, skin tone, textured curls and style. The graduate-student role is on the left, PIXIE on the right; the approved image remains a visual reference, not proof of revised canon. |
 | `pixie-turnaround.jpg` | Proposed construction reference (teal and gold jacket, mint circuitry). |
 | `deaths-daughter-turnaround.jpg` | Proposed construction reference (plum and black velvet, lace collar, brass fastenings). |
 | `pixie-outrider.jpg` | Outrider costume image for PIXIE. |
