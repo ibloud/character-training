@@ -1,9 +1,8 @@
-/* Single site stylesheet. Authority: Loptr Lab Design Bible,
-   Loptr-Lab/veiled-dominion-engine/docs/design/DESIGN_BIBLE.md.
-   Near-black surfaces, shared sans-serif type, gold for links/labels only.
-   Muted text is raised for readability. Theme changes apply site-wide. */
-:root{color-scheme:dark;--void:#050505;--surface:#141414;--text-primary:#e0e0e0;--text-muted:#b5b5b5;--the-light:#d4a853;--line:#626262;--font-main:'Helvetica Neue',Helvetica,Arial,sans-serif;--reading-size:1.125rem}
-:root[data-theme=light]{color-scheme:light;--void:#d9d9d6;--surface:#e6e6e3;--text-primary:#171717;--text-muted:#454545;--the-light:#72521b;--line:#777}
+/* Character portfolio: PIXIE brand surface roles from the 29 Oct 2026 owner-reviewed
+   PIXIE brand guidelines (pixie-ecosystem-guide PR #9). One shared stylesheet.
+   Preserve independent game canon and project visual authority. */
+:root{color-scheme:dark;--void:#071923;--surface:#211823;--text-primary:#F2E5CE;--text-muted:#C0C9CD;--the-light:#D5AB68;--line:#62747B;--action:#A9E2E5;--font-main:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;--font-display:Georgia,serif;--reading-size:1.125rem}
+:root[data-theme=light]{color-scheme:light;--void:#E3EAE9;--surface:#F4F8F7;--text-primary:#071923;--text-muted:#354955;--the-light:#72521b;--line:#63777A;--action:#11575B}
 *{box-sizing:border-box}
 html{font-family:var(--font-main);background:var(--void);color:var(--text-primary);scroll-padding-top:1.25rem}
 body{margin:0;background:var(--void);color:var(--text-primary);font-size:var(--reading-size);line-height:1.65;overflow-wrap:anywhere}
@@ -11,7 +10,7 @@ img,video,svg{display:block;max-width:100%;height:auto}
 a{color:var(--the-light);text-underline-offset:.25em;text-decoration-thickness:1px}
 a:hover{text-decoration-thickness:2px}
 :focus-visible{outline:3px solid var(--the-light);outline-offset:4px}
-h1,h2,h3,h4{font-family:var(--font-main);font-weight:500;line-height:1.2;letter-spacing:normal;margin:0 0 1.25rem;text-wrap:pretty;overflow-wrap:break-word}
+h1,h2,h3,h4{font-family:var(--font-display);font-weight:500;line-height:1.2;letter-spacing:normal;margin:0 0 1.25rem;text-wrap:pretty;overflow-wrap:break-word}
 h1{font-size:clamp(2.2rem,4.5vw,4rem)}h2{font-size:clamp(1.7rem,3vw,2.6rem)}h3{font-size:1.4rem}h4{font-size:1.15rem}
 p{margin:0 0 1.25rem}ul,ol{padding-left:1.5rem}li+li{margin-top:.6rem}figure{margin:0}
 button,input,select,textarea{font:inherit;color:var(--text-primary);background:var(--surface);border:1px solid var(--line);border-radius:3px;max-width:100%}
@@ -212,6 +211,18 @@ footer{flex-direction:column;gap:10px}
 .site-header nav{align-items:center}.site-header nav a{font-size:.9rem;color:var(--text-muted)}.site-header nav a[aria-current=page]{color:var(--the-light)}
 .site-footer{align-items:center}.site-footer p{margin:0}.site-footer nav{gap:1.25rem}
 #theme-toggle{min-height:44px;padding:.45rem .7rem;color:var(--text-primary);background:transparent;border:1px solid var(--line);font-size:.9rem}
-.portfolio-hero h1 em{font-family:var(--font-main);font-style:normal;font-weight:500;color:var(--text-primary)}
+.portfolio-hero h1 em{font-family:var(--font-display);font-style:normal;font-weight:500;color:var(--text-primary)}
 .eyebrow,.project-label,.discipline,.index{letter-spacing:.04em}.eyebrow{color:var(--the-light)}
 @media(max-width:700px){.document-body{padding-top:2rem}.section-standard,#higgsfield{padding-block:2.5rem}.site-header nav{gap:.75rem 1rem}.site-header{gap:1rem}.site-footer{align-items:flex-start}}
+
+/* PIXIE's accepted helper, not decorative page artwork. */
+.pixie-entry{position:fixed;right:max(20px,env(safe-area-inset-right));bottom:max(20px,env(safe-area-inset-bottom));z-index:100;display:flex;align-items:center;justify-content:center;min-width:68px;min-height:68px;width:76px;height:76px;padding:8px;border-radius:50%;border:2px solid var(--the-light);background:var(--void);box-shadow:0 6px 30px #0008;color:var(--text-primary)}
+.pixie-entry:hover,.pixie-entry:focus-visible{border-color:var(--action);background:var(--surface)}
+.pixie-entry img{width:100%;height:100%;object-fit:contain;animation:pixie-breathe 7s ease-in-out infinite}
+@keyframes pixie-breathe{0%,100%{opacity:1}50%{opacity:.5}}
+@media(prefers-reduced-motion:reduce){.pixie-entry img{animation:none;opacity:1}}
+@media(max-width:700px){body{padding-bottom:96px}.wrap{width:calc(100% - 36px)}.pixie-entry{width:64px;height:64px;min-width:64px;min-height:64px;right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom))}}
+/* Legible navigation and accessible action hierarchy. */
+.site-header nav a{font-size:1rem}.site-header nav a[aria-current=page]{color:var(--action)}
+.button{border-color:var(--action);color:var(--void);background:var(--action)}
+.button:hover{border-color:var(--the-light);color:var(--void);background:#D2EFF0}
