@@ -17,6 +17,20 @@ Owner-review research agenda, not findings or professional advice. “Rebranding
 
 These are proposed placements in existing homes. This brief does not claim to have edited or published all those destinations. Professional services and implementations retain their own owning sources.
 
+## Manuscript and historical-game research — proposed character framing
+
+**Evidence boundary:** The manuscript and the tarot deck are separate historical traditions; no documented historical connection between the White Book of Rhydderch and the origin of tarot is claimed. These references are research inputs for the philosophy graduate student's reconstruction story, **not** approved Veiled Dominion canon or completed script changes.
+
+- **White Book of Rhydderch (Peniarth MS 4):** The National Library of Wales documents the manuscript's medieval Welsh texts, scribal work, custody and losses. Its transmission history supports an exercise in examining missing evidence, variant readings and reconstruction rather than assuming a complete original survives. Source: https://www.library.wales/discover-learn/digital-exhibitions/manuscripts/the-middle-ages/white-book-of-rhydderch
+- **Arianrhod and Lleu (Fourth Branch of the Mabinogi):** Naming, arms and marriage destinies invite an *adaptation hypothesis* about authority conferred by speech. “No Bond” as enemy units unable to assist one another is **not** a literal translation of the marriage destiny. Check the exact text against a named edition/translation before quoting or encoding mechanics.
+- **Historical tarot:** The Metropolitan Museum of Art locates the earliest tarot evidence in fifteenth-century northern Italy, as a card game. A historical full pack has 56 suit cards, 21 trumps and the Fool (78 total); divinatory associations developed later. The project's **52-card Sealed Deck is an original fictional system, not the historical original tarot game**. Sources: https://www.metmuseum.org/exhibitions/listings/2016/world-in-play/exhibition-galleries and https://www.themorgan.org/manuscript/158525
+- **Character question:** Who has the authority to decide that a reconstruction is authentic when parts of the record are missing? The philosophy graduate student tests claims and alternative interpretations; PIXIE provides companionship and possibilities without declaring disputed evidence settled.
+- **Story boundary:** Do not silently merge the Death's Daughter pitch, Violet's Revenge, a medieval Welsh text and historical Italian tarot into one provenance chain. The separate title and its source files remain unchanged until an explicit continuity decision.
+
+### Optional reading-to-character test
+
+Choose a short, cited passage in a named edition. Record (1) what the text actually says, (2) what the historical source does **not** establish, (3) two plausible readings, and (4) one original gesture, choice or line the student might make in response. PIXIE may challenge the assumption without serving as an infallible oracle. Reading alone remains valid; no sign-in, public disclosure or paid generation is required.
+
 ## Research questions
 - How do healthcare, palliative care, hospice and end-of-life decisions connect or differ in the selected jurisdiction? Who pays, who decides and who bears unpaid work?
 - What do estate planning, probate and administration cost, and which costs are public fees versus professional services? Separate them from medical treatment and funeral expenditure.
@@ -35,7 +49,7 @@ Choose one; participation can remain private. Use a fictional situation if prefe
 1. Who has authority to make a decision in this passage, and who carries its consequences?
 2. Which costs does the narrator count? Which time, labor or relationship costs remain outside the account?
 3. What changes when a decision is framed as care, inheritance, duty or a purchase?
-4. What would PIXIE ask before offering help? What assumption would Death’s Daughter challenge? Reverse those roles and see whether the scene improves.
+4. What would PIXIE ask before offering help? What assumption would the philosophy graduate student challenge? Reverse those roles and see whether the scene improves.
 5. Where does the comparison to a real service fail? Name the missing evidence instead of diagnosing a person or institution.
 
 ## Star Chamber influence — stewardship, not secrecy
